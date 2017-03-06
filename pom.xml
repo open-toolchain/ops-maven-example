@@ -27,7 +27,7 @@
                 <artifactItem>
                   <groupId>com.ibm.otc</groupId>
                   <artifactId>hello-world</artifactId>
-                  <version>1.0.3-SNAPSHOT</version>
+                  <version>1.0.5-SNAPSHOT</version>
                   <type>war</type>
                   <overWrite>true</overWrite>
                   <!--outputDirectory>${project.build.directory}/alternateLocation</outputDirectory-->
